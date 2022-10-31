@@ -11,7 +11,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 class CalcWFio {
-
+//
     public void writeResTxt(String fName, double result) throws FileNotFoundException {
         PrintWriter f = new PrintWriter(fName);
         f.printf("%f ", result);

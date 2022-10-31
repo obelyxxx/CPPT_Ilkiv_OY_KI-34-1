@@ -2,7 +2,7 @@ package Lab_6;
 /**
  * lab 6 package
  */
-
+//
 
 /**
  * Class Equations implements calculation algorithm

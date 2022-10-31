@@ -3,7 +3,7 @@ package Lab_6;
 /**
  * lab 6 package
  */
-
+//
 /**
  * Class CalcException implements calculation exceptions
  *

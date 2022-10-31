@@ -3,6 +3,7 @@ package Lab_6;
 /**
  * lab 6 package
  */
+//
 
 
 import java.util.Scanner;
