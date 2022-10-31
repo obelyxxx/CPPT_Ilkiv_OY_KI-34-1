@@ -7,7 +7,7 @@ package Lab_6;
 /**
  * Class Equations implements calculation algorithm
  *
- * @author Roman Danchevskyi
+ * @author Ostap Ilkiv
  * @version 1.0
  */
 class Equations {

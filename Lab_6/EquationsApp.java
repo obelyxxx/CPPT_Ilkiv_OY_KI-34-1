@@ -13,7 +13,7 @@ import static java.lang.System.out;
 /**
  * Class EquationsApp demonstrate program
  *
- * @author Roman Danchevskyi
+ * @author Ostap Ilkiv
  * @version 1.0
  */
 public class EquationsApp {

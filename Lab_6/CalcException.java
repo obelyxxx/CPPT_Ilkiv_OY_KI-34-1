@@ -7,7 +7,7 @@ package Lab_6;
 /**
  * Class CalcException implements calculation exceptions
  *
- * @author Roman Danchevskyi
+ * @author Ostap Ilkiv
  * @version 1.0
  */
 class CalcException extends ArithmeticException {
